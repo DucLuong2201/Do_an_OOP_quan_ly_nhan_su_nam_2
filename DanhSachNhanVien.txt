@@ -1,0 +1,51 @@
+NV001,Nguyen Van An,KT,TP,8000000.0,2.5,8,4.5,0.0,3.6E7,Ha Noi,1987,1 Ly Tu Trong, Q1, TPHCM,true
+NV002,Tran Thi Binh,KT,NV,5000000.0,1.5,2,1.5,2500000.0,7500000.0,TPHCM,1995,456 Duong DEF, Q3, TPHCM,true
+NV003,Le Van Cuong,KT,NV,5000000.0,1.5,3,2.5,2500000.0,1.25E7,Da Nang,1992,789 Duong GHI, Q.Thanh Khe, Da Nang,true
+NV004,Pham Thi Dung,KT,PP,6500000.0,2.0,4,3.0,3500000.0,1.95E7,Can Tho,1991,101 Duong JKL, Q.Ninh Kieu, Can Tho,true
+NV005,Hoang Van Binh,KD,TP,8000000.0,2.5,7,4.5,0.0,3.6E7,Hai Phong,1988,202 Duong MNO, Q.Ngo Quyen, Hai Phong,true
+NV006,Mai Thi Lan,KD,PP,6500000.0,2.0,5,3.0,3000000.0,1.95E7,Long An,1990,303 Duong PQR, Q7, TPHCM,true
+NV007,Bui Van Nam,KD,NV,5000000.0,1.5,1,1.5,2000000.0,7500000.0,Vung Tau,1999,404 Duong STU, Q.Binh Thanh, TPHCM,true
+NV008,Dao Thi Thao,MK,TP,8000000.0,2.5,6,4.5,0.0,3.6E7,Quang Ninh,1989,505 Duong VWX, Q2, TPHCM,true
+NV009,Vu Van Hung,MK,NV,5000000.0,1.5,2,1.5,0.0,7500000.0,TPHCM,1996,606 Duong YZ, Q10, TPHCM,true
+NV010,Ngo Thi Huong,NS,TP,8000000.0,2.5,5,3.5,0.0,2.8E7,Binh Duong,1990,707 Duong 123, Q.Tan Binh, TPHCM,true
+NV011,Trinh Van Kien,NS,NV,5000000.0,1.5,3,2.5,1000000.0,1.25E7,Dong Nai,1993,808 Duong 456, Q.Go Vap, TPHCM,true
+NV012,Ly Thi My,NS,NV,5000000.0,1.5,1,1.5,1000000.0,7500000.0,TPHCM,1998,909 Duong 789, Q.Phu Nhuan, TPHCM,true
+NV013,Do Van Manh,VH,PP,6500000.0,2.1,4,3.0,0.0,1.95E7,Khanh Hoa,1991,111 Duong A, Q.Tan Phu, TPHCM,true
+NV014,Duong Van Long,VH,NV,5000000.0,1.5,2,1.5,2000000.0,7500000.0,Binh Thuan,1997,222 Duong B, Q.Binh Tan, TPHCM,true
+NV015,Phan Van Tai,VH,TP,8000000.0,2.5,6,4.5,0.0,3.6E7,Tien Giang,1989,333 Duong C, Q.12, TPHCM,true
+NV016,Nguyen Thi Anh,KD,NV,5000000.0,1.5,3,2.5,0.0,1.25E7,Ha Noi,1994,11 Vo Van Tan, Q3, TPHCM,true
+NV017,Tran Van Bach,KD,NV,5000000.0,1.5,2,1.5,5000000.0,7500000.0,TPHCM,1996,22 Nguyen Thi Minh Khai, Q1, TPHCM,true
+NV018,Le Thi Cam,MK,NV,5000000.0,1.5,1,1.5,0.0,7500000.0,Da Nang,1998,33 Pasteur, Q3, TPHCM,true
+NV019,Pham Van Dong,VH,NV,5000000.0,1.5,3,2.5,0.0,1.25E7,Can Tho,1992,44 Hai Ba Trung, Q1, TPHCM,false
+NV020,Hoang Thi Yen,NS,NV,5000000.0,1.5,2,1.5,0.0,7500000.0,Hai Phong,1995,55 Le Loi, Q1, TPHCM,true
+NV021,Mai Van Giang,KT,NV,5000000.0,1.5,1,1.5,0.0,7500000.0,Long An,1999,66 Nam Ky Khoi Nghia, Q3, TPHCM,true
+NV022,Bui Thi Hanh,KD,NV,5000000.0,1.5,4,2.5,0.0,1.25E7,Vung Tau,1991,77 Vo Thi Sau, Q3, TPHCM,true
+NV023,Dao Van Kien,MK,PP,6500000.0,2.0,5,3.0,0.0,1.95E7,Quang Ninh,1990,88 Dien Bien Phu, Q.Binh Thanh, TPHCM,true
+NV024,Vu Thi Le,NS,PP,6500000.0,2.0,6,4.0,0.0,2.6E7,Binh Duong,1989,99 Phu My, Q.Binh Thanh, TPHCM,true
+NV025,Ngo Van Minh,VH,NV,5000000.0,1.5,1,1.5,0.0,7500000.0,Dong Nai,1997,121 Nguyen Trai, Q5, TPHCM,true
+NV026,Trinh Thi Nga,KD,N/A,3000000.0,0.0,0,1.0,0.0,3000000.0,TPHCM,2001,132 Tran Hung Dao, Q1, TPHCM,false
+NV027,Ly Van On,KT,N/A,3000000.0,0.0,0,1.0,0.0,3000000.0,Khanh Hoa,2002,143 Nguyen Van Cu, Q5, TPHCM,false
+NV028,Do Thi Phuc,MK,N/A,3000000.0,0.0,0,1.0,0.0,3000000.0,Binh Thuan,2000,154 An Duong Vuong, Q5, TPHCM,false
+NV029,Duong Van Quan,NS,N/A,3000000.0,0.0,0,1.0,0.0,3000000.0,Tien Giang,2001,165 Le Hong Phong, Q10, TPHCM,false
+NV030,Phan Thi Sen,VH,N/A,3000000.0,0.0,0,1.0,0.0,3000000.0,Ha Noi,2002,176 Ly Thai To, Q10, TPHCM,false
+NV031,Nguyen Huu Tai,KD,NV,5000000.0,1.5,2,1.5,0.0,7500000.0,TPHCM,1996,187 Ba Thang Hai, Q10, TPHCM,true
+NV032,Tran Ngoc Uyen,KD,NV,5000000.0,1.5,1,1.5,0.0,7500000.0,Da Nang,1998,198 Cao Thang, Q10, TPHCM,true
+NV033,Le Van Vien,MK,NV,5000000.0,1.5,3,2.5,0.0,1.25E7,Can Tho,1993,209 Nguyen Dinh Chieu, Q3, TPHCM,true
+NV034,Pham Thi Xuan,NS,NV,5000000.0,1.5,2,1.5,0.0,7500000.0,Hai Phong,1995,220 Cach Mang Thang Tam, Q3, TPHCM,true
+NV035,Hoang Van Y,VH,NV,5000000.0,1.5,1,1.5,0.0,7500000.0,Long An,1999,231 Nguyen Thi Thap, Q7, TPHCM,true
+NV036,Mai Dinh Bao,KT,NV,5000000.0,1.5,2,1.5,0.0,7500000.0,Vung Tau,1997,242 Huynh Tan Phat, Q7, TPHCM,true
+NV037,Bui Van Chau,KD,NV,5000000.0,1.5,3,2.5,0.0,1.25E7,Quang Ninh,1994,253 Nguyen Van Linh, Q7, TPHCM,true
+NV038,Dao Ngoc Diep,MK,NV,5000000.0,1.5,1,1.5,0.0,7500000.0,Binh Duong,1998,264 Le Van Luong, Q7, TPHCM,true
+NV039,Vu Tuan Em,NS,NV,5000000.0,1.5,2,1.5,0.0,7500000.0,Dong Nai,1996,275 Nguyen Huu Tho, Q7, TPHCM,true
+NV040,Ngo Van Gia,VH,NV,5000000.0,1.5,3,2.5,0.0,1.25E7,TPHCM,1993,286 Phan Van Tri, Q.Go Vap, TPHCM,true
+NV041,Trinh Van Hieu,KD,NV,5000000.0,1.5,1,1.5,0.0,7500000.0,Khanh Hoa,1999,297 Quang Trung, Q.Go Vap, TPHCM,true
+NV042,Ly Thi Kieu,KT,NV,5000000.0,1.5,2,1.5,0.0,7500000.0,Binh Thuan,1995,308 Thong Nhat, Q.Go Vap,false
+NV043,Do Huu Loc,MK,NV,5000000.0,1.5,3,2.5,0.0,1.25E7,Tien Giang,1992,319 Nguyen Oanh, Q.Go Vap, TPHCM,true
+NV044,Duong Van Muoi,NS,NV,5000000.0,1.5,1,1.5,0.0,7500000.0,Ha Noi,1998,330 Le Duc Tho, Q.Go Vap, TPHCM,true
+NV045,Phan Van Nghia,VH,NV,5000000.0,1.5,2,1.5,0.0,7500000.0,TPHCM,1997,341 Phan Huy Ich, Q.Tan Binh, TPHCM,true
+NV046,Nguyen Thi Oanh,KD,NV,5000000.0,1.5,3,2.5,0.0,1.25E7,Da Nang,1994,352 Truong Chinh, Q.Tan Binh, TPHCM,true
+NV047,Tran Van Phuc,KT,NV,5000000.0,1.5,1,1.5,0.0,7500000.0,Can Tho,1999,363 Cong Hoa, Q.Tan Binh, TPHCM,true
+NV048,Le Thi Quynh,MK,NV,5000000.0,1.5,2,1.5,0.0,7500000.0,Hai Phong,1996,374 Hoang Hoa Tham, Q.Tan Binh, TPHCM,true
+NV049,Pham Van Ron,VH,NV,5000000.0,1.5,3,2.5,0.0,1.25E7,Long An,1991,385 Au Co, Q.Tan Binh,false
+NV050,Luu Thi Diem,KD,N/A,3000000.0,0.0,0,1.0,0.0,3000000.0,Ca Mau,2002,50 Duong Z, Q1, TPHCM,false
+

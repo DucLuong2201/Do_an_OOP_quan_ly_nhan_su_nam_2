@@ -1,0 +1,7 @@
+DA001,Phat trien He thong CRM,KD,01/01/2025,30/06/2025,5,DangTienHanh
+DA002,Chien dich Marketing Q4/2025,MK,01/10/2025,31/12/2025,3,DaHuy
+DA003,Tuyen dung nhan su 2025,NS,15/05/2025,15/08/2025,2,HoanThanh
+DA004,Kiem toan tai chinh noi bo,KT,01/07/2025,30/09/2025,4,DangTienHanh
+DA005,Nang cap He thong May chu,VH,10/11/2025,20/12/2025,3,Moi
+DA006,Website E-commerce (Phase 2),KD,01/03/2025,31/12/2025,8,DangTienHanh
+DA007,Su kien ra mat San pham moi,MK,05/01/2026,15/02/2026,5,Moi

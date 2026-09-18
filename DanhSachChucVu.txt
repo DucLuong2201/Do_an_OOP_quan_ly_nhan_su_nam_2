@@ -1,0 +1,4 @@
+TP,Trưởng phòng,2.5
+NV,Nhan vien,1.5
+PP,Phó phòng,2.0
+TTS,Thuc tap sinh,1.0

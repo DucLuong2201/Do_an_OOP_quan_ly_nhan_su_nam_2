@@ -1,0 +1,5 @@
+KD,Kinh Doanh,NV005,20/10/2025,kd@cty.com,0
+MK,Marketing,NV052,22/11/2024,mkt@cty.com,0
+NS,Nhan Su,NV010,22/11/2024,ns@cty.com,0
+KT,Ke Toan Tai Chinh,N/A,22/11/2024,kt@cty.com,0
+VH,Van Hanh,NV015,22/11/2024,vh@cty.com,0
