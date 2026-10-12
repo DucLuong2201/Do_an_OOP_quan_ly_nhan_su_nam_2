@@ -150,5 +150,5 @@ java -cp bin Main
 ---
 
 ## 👥 Tác giả
-* **Sinh viên thực hiện:** DucLuong2201  
+* **Sinh viên thực hiện:** Đức Lương, Minh Hiếu, Phi Hùng
 * **Đề tài:** Hệ thống Quản lý Nhân sự - Đồ án môn Lập trình Hướng đối tượng (OOP)
