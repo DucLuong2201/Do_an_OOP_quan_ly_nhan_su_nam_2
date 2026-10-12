@@ -1,6 +1,5 @@
 # 🏢 HỆ THỐNG QUẢN LÝ NHÂN SỰ (OOP - JAVA)
 
-> **Repository:** `Do_an_OOP_quan_ly_nhan_su_nam_2`  
 > **Học phần:** Lập trình Hướng đối tượng (OOP) - Năm 2  
 > **Ngôn ngữ:** Java (JDK 17+ / JavaSE-24)  
 > **Môi trường đề xuất:** Eclipse IDE, Visual Studio Code, IntelliJ IDEA  
