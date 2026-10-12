@@ -127,27 +127,6 @@ Chương trình cung cấp bảng điều khiển menu số gồm 5 phân hệ l
 
 ---
 
-### Cách 4: Chạy từ Terminal / Command Prompt (CMD)
-
-Mở Terminal tại thư mục gốc của dự án (nơi nhìn thấy thư mục `src` và các file `.txt`):
-
-```bash
-# Bật hiển thị UTF-8 trên Windows CMD (tránh lỗi font chữ tiếng Việt)
-chcp 65001
-
-# Bước 1: Biên dịch toàn bộ các file java trong src vào thư mục bin
-javac -encoding UTF-8 -d bin src/*.java
-
-# Bước 2: Chạy chương trình từ lớp Main
-# (Trường hợp các file Java không khai báo package):
-java -cp bin Main
-
-# (Trường hợp các file Java có khai báo "package DoAn;" hoặc "package do_An;"):
-# java -cp bin DoAn.Main
-```
-
----
-
 ## 👥 Tác giả
 * **Sinh viên thực hiện:** Đức Lương, Minh Hiếu, Phi Hùng
 * **Đề tài:** Hệ thống Quản lý Nhân sự - Đồ án môn Lập trình Hướng đối tượng (OOP)
